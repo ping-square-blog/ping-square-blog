@@ -1,7 +1,7 @@
 ---
 author: Patrick Djemba Tchounke
 title: Can we really mass produce knowledge?
-date: 2022-10-01
+date: 2025-01-06
 description: 
 tags: ["blog"]
 # type: custom
@@ -38,7 +38,7 @@ Consider the example of using social media to understand how AI can impact the t
 
 According to recent estimates, the world generates approximately **402.74 million terabytes** of data every day. To put that in perspective, that is equivalent to over **9 million years** of video content every 24 hours! Of course data, by its mere abundance has become a commodity but does that mean knoledge too? or the real question should be how much data constitute a unit of knowledge?
 
-There is no doubt in my mind that in a capitalistic world, where data is becoming a currency, knowledge will know the same faith. so what will be the best tool for that enterprise than AI? Before you start thinking otherwise, here is how I Think AI is already turning Knowledge into a commodity.
+in today's digital economy where data is increasingly treated as a commodity, there is litle doubt that knowledge, as a byproduct,  will know the same faith. But given the umoungous volume of data, what better tool than AI to guaranti the transformation of raw facts into actionable knowledge? Before you start thinking otherwise, here is how I Think AI is already turning Knowledge into a commodity.
 
 1. **Democratization of Information**: AIs, due to their ability to generate, summarize, and interpret large amounts of text, have made it easier for people to access and understand complex information. Previously, deep knowledge on many subjects might have been confined to experts or to those with the time and resources to study extensively. Now, AIs can provide high-level explanations or deep dives into a wide range of topics quickly and efficiently.
 2. **Standardization of Knowledge**: Much like a commodity, which is standardized and interchangeable, AIs provide information that tends to standardize knowledge. When you ask different AIs a question, assuming they've been trained on similar datasets, their responses are likely to be broadly consistent, reflecting a kind of uniformity in the information they provide.
@@ -54,7 +54,7 @@ In this information economy, How much information constitutes a unit of knowledg
 
 How much knowledge is needed to achieve wisdom? In the vast landscape of cognition, data stands as the solitary quantifiable element. Traditionally, the true merit of knowledge is often only revealed over time. This raises a thought-provoking question: Is the real strength of knowledge gauged by its depth and quality, or simply by its volume? We often assume that amassing more data will inherently refine our knowledge, suggesting a preference for quantity. Yet, our traditions, our culture, our religions, our whole system of beliefs is based on selective knowledge passed on from generation to generation. in a Profit-driven society, the quality of knowledge is determined by its financial impact. Maybe we should get ready for a world where everything will be reduce to its monetary value, that is if we are not there yet.
 
-### What if knowledge became a commodity?
+### What if knowledge become a commodity?
 
 > "knowledge is power"
 >
@@ -62,10 +62,8 @@ How much knowledge is needed to achieve wisdom? In the vast landscape of cogniti
 
 A world with knowledge as a commodity will certainly be an uptopia! Anyone will command enough power to change the world! But will they? The real question is: "does everyone has the right mind to wild that power?".
 
-In 1960, in the era of space exploration, Isaac Asimov was full of hope when he said that "The saddest aspect of life right now is that science gathers knowledge faster than society gathers wisdom. But our ventures into space may change that". Can we say for sure that our venture into Artificial Intelligence will increase our wisdom? I suspect that Isaac Asimov would be less optimistic if he was to learn that in 2019, the USA created another branch of the military, namely the U.S space force.
+In 1960, in the era of space exploration, Isaac Asimov was full of hope when he said that: "The saddest aspect of life right now is that science gathers knowledge faster than society gathers wisdom. But our ventures into space may change that". Can we say for sure that our venture into Artificial Intelligence will increase our wisdom? I suspect that Isaac Asimov would be less optimistic if he was to learn that in 2019, the USA created another branch of the military, namely the U.S space force.
 
 {{< persona thumbnail="/img/patrick_dt.png" title="Patrick Djemba Tchounke" color="success" >}}
-  As a content creator you value your independence. You like to take control of your
-  online and offline presence. You want to focus on growing your audience, without
-  limitations.
+  As a network Engineer, I am very passionate about Engineering in general and how it can help solve the most  urgent challenges of our generation.
 {{< /persona >}}
